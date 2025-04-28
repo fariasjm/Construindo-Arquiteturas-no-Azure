@@ -17,7 +17,10 @@ A replicação de dados fora do Brasil requer autorização específica, especia
 
 ## Exploração de Datacenters:
 
-O áudio sugere a utilização do site da Microsoft para explorar virtualmente os data centers, onde se pode observar a estrutura e as operações internas.
+O laboratório apresentou o site da Microsoft para explorar virtualmente os datacenters, onde se pode observar a estrutura e as operações internas.
+
+![image](https://github.com/user-attachments/assets/aa5c1ece-b7d5-4649-9fdd-b30d75652685)
+
 
 ## Criação de Grupos de Recursos:
 
