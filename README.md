@@ -24,16 +24,20 @@ https://datacenters.microsoft.com/globe/explore/
 ## Criação de Grupos de Recursos:
 
 Um grupo de recursos é uma coleção de recursos no Azure que compartilham o mesmo ciclo de vida e permissões.
-A criação de grupos de recursos é um passo inicial importante para organizar e gerenciar recursos no Azure.
-Permissões e Segurança:
+Para criar um grupo de recursos, é preciso selecionar alguma região que está disponível.
+
+![image](https://github.com/user-attachments/assets/cc884ae7-9dbc-4b2b-81c3-8684bd2a12da)
+
+
+## Permissões e Segurança:
 
 É essencial gerenciar permissões de acesso adequadamente para evitar exclusões acidentais de recursos, reforçando a importância da segurança interna.
 
 ## Marcas e Organização de Recursos:
 
 O uso de tags (marcações) ajuda na organização e identificação de recursos para facilitar a gestão financeira e administrativa.
-Implantações e Monitoramento:
 
-O áudio destaca a facilidade de criação de recursos através do portal do Azure e a importância de monitorar atividades e eventos para uma gestão eficiente.
+
+
 
 
