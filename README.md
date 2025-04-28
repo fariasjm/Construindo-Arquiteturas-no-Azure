@@ -11,9 +11,11 @@ Existem duas principais regiões no Brasil:
   - Brasil Sul (São Paulo) - reservada para todos os consumidores e parceiros e
   - Brasil Sudeste (Rio de Janeiro) - reservada para consumdores brasileiros, que requerem cenário baseado em disaster recovery.
 
+![image](https://github.com/user-attachments/assets/33451cc8-b070-43de-8162-1016c26a466f)
+
 A replicação de dados fora do Brasil requer autorização específica, especialmente para dados sensíveis que não podem ser transferidos para fora do território nacional.
 
-## Exploração de Data Centers:
+## Exploração de Datacenters:
 
 O áudio sugere a utilização do site da Microsoft para explorar virtualmente os data centers, onde se pode observar a estrutura e as operações internas.
 
